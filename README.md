@@ -3,6 +3,6 @@
 姓名：林軒宇<br>
 系級：科技系二年級<br>
 ## 專題連結區
-[期末專題＿智能家電改善青少年壞習慣](https://github.com/ethanlin1126/DS/blob/main/%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB_%E9%9D%92%E5%B0%91%E5%B9%B4.ipynb)<br>
+[期末專題＿智能家電改善青少年壞習慣](https://github.com/ethanlin1126/DS/blob/main/%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB.pdf)<br>
 [google colab連結](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=yBXLAZWTOE9X)<br>
 [google sheet連結](https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0)
