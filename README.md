@@ -1,4 +1,4 @@
-# 112-2 Data Structure<br>
+# [2024 Spring]Data Structure<br>
 Lecturer：Assoc. Prof. Yun-Cheng Tsai<br>
 Name：Hsuan-Yu Lin<br>
 ## Course Slides
