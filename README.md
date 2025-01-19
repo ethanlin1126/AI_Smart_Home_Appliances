@@ -3,7 +3,7 @@ Lecturer：Assoc. Prof. Yun-Cheng Tsai<br>
 Name：Hsuan-Yu Lin<br>
 ## Final Project
 Project Overview:<br>
-  This project employs Python and Large Language Model(LLM) technology to generate random environmental data, which is then synchronized with a Google Sheets database via the Google Sheets API. The program utilizes Hugging Face's Mistral AI model to analyze this data, normalizing it with Python to produce actionable recommendations for home appliances. As a result, household devices can make real-time adjustments, maintaining optimal comfort in the environment.<br>
+  The project utilizes Python and LLM (Large Language Model) technology. The program generates environmental data and syncs it to a Google Sheets database via the Google Sheets API. It uses Hugging Face's Mistral AI model to analyze this data, normalizes it with Python, and provides actionable recommendations for household appliances, enabling real-time adjustments for comfort.<br>
 *****
 [Description](https://github.com/ethanlin1126/DS/blob/main/%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB.pdf)<br>
 [Code](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=yBXLAZWTOE9X)<br>
