@@ -35,6 +35,6 @@ turn_12_off()
 All functions send POST requests to the designated Home Assistant webhooks using an authorization token.
 
 ## Resources
-[Project Description PDF](https://github.com/ethanlin1126/DS/blob/main/%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB.pdf)<br>
-[Google Colab Code](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=yBXLAZWTOE9X)<br>
-[Google Sheet Log](https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0)
+📄 Project Description [PDF](https://github.com/ethanlin1126/DS/blob/main/%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB.pdf)<br>
+💻 Google Colab [Code](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=yBXLAZWTOE9X)<br>
+📊 Google Sheet [Data](https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0)
